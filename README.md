@@ -1,1 +1,1 @@
-# PRTG-WinRM-Custom-Sensors
+# PRTG-WinRM-Sensors
